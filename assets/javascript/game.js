@@ -132,7 +132,7 @@
 		initial: function() {
 			this.chooseRandomWord()
 			this.formatWord()
-			this.message = "Welcome to Hangman: Breaking Bad Edition!"
+			this.message = "Welcome to Hangman: Breaking Cat Edition!"
 			this.instruct = "Press any letter to start..."
 			this.hit = false
 			this.miss = false
